@@ -1,2 +1,2 @@
-# Test
-Aprendendo uma nova linguagem
+# Python Tests 
+Python study
