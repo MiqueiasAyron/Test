@@ -1,4 +1,4 @@
-n = (input('Digite qualquer coisa: '))
+n = input('Digite qualquer coisa: ')
 if n.isnumeric():
     print('O valor de entrada é numérico')
 elif n.isalpha():
